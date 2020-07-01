@@ -1,0 +1,26 @@
+						Using ScientificCalculator
+
+1. Open the executable File.
+2. Enter the Menu Number corressponding to the computation you want to perform.
+
+						Using the Matrix Environment
+
+1. Enter a matrix expression to be performed. 
+    Format: MatA sign MatB.
+
+2. The end of a row of a matrix is indicated by a comma " , ".
+
+3. A comma isn't added to the last row of a matrix.
+
+3. The end of an expression is indicated by a semi-colon " ;  ".
+
+						Using the Trigonometry Environment
+
+1. Enter a tigonometry expression to be performed. 
+    Format: trigonometry_function(angle  in degree).
+ 
+2. A sine function is denoted as. sin(angle).
+
+3. A cosine function is denoted as. cos(angle).
+
+4. A tangent function is denoted as tan(angle).

@@ -1,0 +1,24 @@
+						Program Structure
+
+
+int main()				Starts the program.
+
+void main_menu()			Allows user to choose the type of operation to perform.
+
+bool only_one_character()		Checks if the user input in the main_menu is a single character input.
+
+void matrix_expression()		Reads a matrix expression.
+
+void read_matrix()			Reads a sequence of numbers as a matrix through get().
+
+void get(Matrix*)			Reads each token in the input line.
+
+void compute(Matrix&,Matrix&,char)	Performs computation of two matrices.
+
+void error(string)			Throws an error message using the string value passed to it.
+
+void read_trigonometry()		Reads a trigonometry expression.
+
+double compute_trigonometry		Computes the trigonometry function.
+
+
