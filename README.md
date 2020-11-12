@@ -1,2 +1,3 @@
 # scientificCalculator
-Program to perform Engineering and Scientific Calculations. A Matlab without simulation.
+This program is designed to perform matrix operations and evaluate trigonometric functions. 
+It is a project born to replicate Matlab without simulink.
